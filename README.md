@@ -9,7 +9,7 @@ sudo ./install auto
 sudo service codedeploy-agent status
 sudo yum install -y python-pip
 sudo pip install awscli
-
+sudo service code-deploy-agent status
 
 
 #=======================================================================================================
